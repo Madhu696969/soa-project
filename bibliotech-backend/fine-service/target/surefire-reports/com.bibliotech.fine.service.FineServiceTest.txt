@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bibliotech.fine.service.FineServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.245 s -- in com.bibliotech.fine.service.FineServiceTest

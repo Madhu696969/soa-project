@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\AuthServiceApplication.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\config\SecurityConfig.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\controller\AuthController.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\dto\AuthResponse.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\dto\ErrorResponse.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\dto\LoginRequest.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\dto\RegisterRequest.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\dto\UserDto.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\entity\Role.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\entity\User.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\exception\DuplicateEmailException.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\exception\GlobalExceptionHandler.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\exception\InvalidCredentialsException.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\exception\ResourceNotFoundException.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\repository\UserRepository.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\security\JwtUtil.java
+C:\Users\Admin\Desktop\backend-zip\bibliotech-backend\auth-service\src\main\java\com\bibliotech\auth\service\AuthService.java
